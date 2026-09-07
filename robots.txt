@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jahidulislamseo.github.io/image_converter/sitemap.xml
